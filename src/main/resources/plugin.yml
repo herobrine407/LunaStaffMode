@@ -1,0 +1,4 @@
+name: LunaStaffMode
+version: '${project.version}'
+main: me.portmapping.staffmode.LunaStaffMode
+api-version: 1.19
